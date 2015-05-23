@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BE87CEC8-9385-4D1D-A296-85A5C3404132</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>25FCB32905C46DEE391777C174C7B71137AADBB2</key>
+		<string>https://github.com/otamm/Swift-Cheat-Sheet.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>3_loops/Loops.playground/playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>25FCB32905C46DEE391777C174C7B71137AADBB2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/otamm/Swift-Cheat-Sheet.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>25FCB32905C46DEE391777C174C7B71137AADBB2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>25FCB32905C46DEE391777C174C7B71137AADBB2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>playground</string>
+		</dict>
+	</array>
+</dict>
+</plist>
