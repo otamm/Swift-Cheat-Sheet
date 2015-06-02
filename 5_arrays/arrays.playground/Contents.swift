@@ -56,3 +56,7 @@ someStrings += ["So are these two.", "This is now the last element."];
 someStrings.removeLast(); // the 'opposite' of .append();
 someStrings.removeAtIndex(0); // removes the first element;
 someStrings.removeAll(keepCapacity: true); // keeps the memory allocated for the array as it was before removing elements; if 'false' were passed as an argument, the memory would be cleared and allocated only if the same number of elements were inserted again.
+
+//BONUS: random number generator
+let randomNumber = Int(arc4random_uniform(UInt32(5))) // will generate a number in the range 0...5 (excluding 5);
+let anuthahRandomNumber = Int(arc4random_uniform(UInt32(10))) // will generate a number in the range 0...10 (excluding 10);
